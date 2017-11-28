@@ -1,0 +1,8 @@
+On evMouseEnter     ;; Event Parameters - pRow( Itemreference )
+	Do $cwind.$objs.gb1.$bobjs.1030.$text.$assign("This example uses several transform objects to animate some 'playing cards'.")
+	Do $cwind.$objs.trx1.$transform('showinfo')
+On evMouseLeave
+	Do $cwind.$objs.trx1.$transform('hideinfo')
+On evClick
+	Do $cwind.$objs.trx1.$transform('hideinfo')
+	Open window instance win3

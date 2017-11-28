@@ -1,0 +1,30 @@
+{
+	"ident": 1037,
+	"order": 16388,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "",
+		"font": 4,
+		"fontsize": 10,
+		"fontstyle": "kBold,kItalic",
+		"forecolor": "kColorForeFill",
+		"height": 49,
+		"left": 32,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "This window uses a transform object to implement a slide-in tool-tip (a group box containing two background objects)."
+		},
+		"textcolor": "kWhite",
+		"top": 265,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 433
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 4,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2014-04-23 12:12:59",
+		"desc": "",
+		"external": false,
+		"moddate": "2014-07-03 16:07:28",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	},
+	"libs": [
+		"Generic4 Library",
+		"Transform Library",
+		"Slider Library"
+	]
+}

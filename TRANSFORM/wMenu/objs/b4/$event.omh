@@ -1,0 +1,8 @@
+On evMouseEnter
+	Do $cwind.$objs.gb1.$bobjs.1030.$text.$assign("This example uses a transform object to animate text inside several background label objects.")
+	Do $cwind.$objs.trx1.$transform('showinfo')
+On evMouseLeave
+	Do $cwind.$objs.trx1.$transform('hideinfo')
+On evClick
+	Do $cwind.$objs.trx1.$transform('hideinfo')
+	Open window instance win4

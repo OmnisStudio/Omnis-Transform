@@ -1,0 +1,22 @@
+{
+	"ident": 1029,
+	"order": 16385,
+	"objtype": "kRoundrect",
+	"properties": {
+		"backcolor": "kColorBackFill",
+		"backpattern": 1,
+		"bordercolor": "kColorFrame",
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "",
+		"forecolor": "kColorForeFill",
+		"height": 100,
+		"left": 5,
+		"linestyle": 1,
+		"objlink": 6,
+		"top": 2,
+		"userinfo": "",
+		"visible": true,
+		"width": 267
+	}
+}

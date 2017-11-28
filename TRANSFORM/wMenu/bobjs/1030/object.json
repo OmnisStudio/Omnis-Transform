@@ -1,0 +1,30 @@
+{
+	"ident": 1030,
+	"order": 16386,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "CtrlLabel",
+		"font": 5,
+		"fontsize": 0,
+		"fontstyle": "kPlain",
+		"forecolor": "kColorForeFill",
+		"height": 88,
+		"left": 15,
+		"objlink": 6,
+		"text": {
+			"type": 14,
+			"calc": "Basic animation test window allows the $animdelay, $numsteps and $convergence properties to be modified and tested using four group boxes."
+		},
+		"textcolor": "kColorWindowText",
+		"top": 11,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 248
+	}
+}

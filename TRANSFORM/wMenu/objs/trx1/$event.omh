@@ -1,0 +1,4 @@
+On evTransformComplete
+	Do $cwind.$objs.gb1.$visible.$assign(p2='showinfo')
+On evTransformBegin
+	Do $cwind.$objs.gb1.$visible.$assign(kTrue)
