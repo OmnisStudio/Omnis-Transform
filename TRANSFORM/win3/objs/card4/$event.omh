@@ -1,0 +1,2 @@
+On evClick
+	Do $cwind.$objs.turn4.$transform('turn')

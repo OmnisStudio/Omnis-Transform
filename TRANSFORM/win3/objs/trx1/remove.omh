@@ -1,0 +1,9 @@
+Do $iwindows.win3.$objs.card1.$left.$assign(-200)
+;  wait 5
+Do $iwindows.win3.$objs.card2.$left.$assign(-200)
+;  wait 5
+Do $iwindows.win3.$objs.card3.$left.$assign(-200)
+;  wait 5
+Do $iwindows.win3.$objs.card4.$left.$assign(-200)
+;  wait 5
+Do $iwindows.win3.$objs.card5.$left.$assign(-200)

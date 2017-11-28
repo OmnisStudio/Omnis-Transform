@@ -1,0 +1,9 @@
+
+On evTransformComplete
+	;  Transformation is complete
+	If p2='remove'
+		Do method $reset
+	End If
+	
+On evTransformBegin
+	;  Transformation has begun

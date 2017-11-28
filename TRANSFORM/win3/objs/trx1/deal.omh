@@ -1,0 +1,15 @@
+Do $iwindows.win3.$objs.card1.$left.$assign(10)
+Do $iwindows.win3.$objs.card1.$top.$assign(150)
+;  wait 15
+Do $iwindows.win3.$objs.card2.$left.$assign(200)
+Do $iwindows.win3.$objs.card2.$top.$assign(150)
+;  wait 15
+Do $iwindows.win3.$objs.card3.$left.$assign(390)
+Do $iwindows.win3.$objs.card3.$top.$assign(150)
+;  wait 15
+Do $iwindows.win3.$objs.card4.$left.$assign(580)
+Do $iwindows.win3.$objs.card4.$top.$assign(150)
+;  wait 15
+Do $iwindows.win3.$objs.card5.$left.$assign(770)
+Do $iwindows.win3.$objs.card5.$top.$assign(150)
+;

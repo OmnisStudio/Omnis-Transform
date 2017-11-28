@@ -1,0 +1,32 @@
+;  NB) This method is not used as a transform state, hence it can contain executable code
+Do $cwind.$objs.card1.$top.$assign(-280)
+Do $cwind.$objs.card1.$left.$assign(350)
+
+Do $cwind.$objs.card2.$top.$assign(-280)
+Do $cwind.$objs.card2.$left.$assign(350)
+
+Do $cwind.$objs.card3.$top.$assign(-280)
+Do $cwind.$objs.card3.$left.$assign(350)
+
+Do $cwind.$objs.card4.$top.$assign(-280)
+Do $cwind.$objs.card4.$left.$assign(350)
+
+Do $cwind.$objs.card5.$top.$assign(-280)
+Do $cwind.$objs.card5.$left.$assign(350)
+
+Calculate iPic1 as $cwind.$bobjs.1050.$picture
+Calculate iPic2 as $cwind.$bobjs.1050.$picture
+Calculate iPic3 as $cwind.$bobjs.1050.$picture
+Calculate iPic4 as $cwind.$bobjs.1050.$picture
+Calculate iPic5 as $cwind.$bobjs.1050.$picture
+Calculate iCard1Turned as kFalse
+Calculate iCard2Turned as kFalse
+Calculate iCard3Turned as kFalse
+Calculate iCard4Turned as kFalse
+Calculate iCard5Turned as kFalse
+
+Do $cwind.$objs.card1.$redraw()
+Do $cwind.$objs.card2.$redraw()
+Do $cwind.$objs.card3.$redraw()
+Do $cwind.$objs.card4.$redraw()
+Do $cwind.$objs.card5.$redraw()

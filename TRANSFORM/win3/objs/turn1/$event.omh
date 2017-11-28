@@ -1,0 +1,15 @@
+On evTransformComplete
+	;  Transformation is complete
+	If p2='turn'
+		Calculate iCard1Turned as 1-iCard1Turned
+		If iCard1Turned
+			Calculate iPic1 as $cwind.$bobjs.1051.$picture     ;; ten of clubs
+		Else
+			Calculate iPic1 as $cwind.$bobjs.1050.$picture
+		End If
+		Do $cwind.$objs.card1.$redraw()
+		Do $cobj.$transform('restore')
+	End If
+	Quit method
+On evTransformBegin
+	;  Transformation has begun

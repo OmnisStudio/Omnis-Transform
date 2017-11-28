@@ -1,0 +1,6 @@
+;  Enter your initialization code here
+Do $cwind.$objs.trx1.$convergence.$assign(kConvergeSine)
+
+Do $cwind.$bobjs.$sendall($ref.$top.$assign(-280))
+Do $cwind.$bobjs.1046.$top.$assign(550)
+Do $cwind.$objs.trx1.$reset()

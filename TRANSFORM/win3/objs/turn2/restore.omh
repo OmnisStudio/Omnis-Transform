@@ -1,0 +1,2 @@
+Do $iwindows.win3.$objs.card2.$width.$assign(181)
+Do $iwindows.win3.$objs.card2.$left.$assign(200)
