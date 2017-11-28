@@ -1,0 +1,18 @@
+;  This is a method
+Do $iwindows.win1.$objs.groupBox1.$width.$assign(50) Returns #F
+Do $iwindows.win1.$objs.groupBox1.$height.$assign(330) Returns #F
+
+
+Do $iwindows.win1.$objs.groupBox3.$top.$assign(350) Returns #F
+Do $iwindows.win1.$objs.groupBox3.$width.$assign(50) Returns #F
+Do $iwindows.win1.$objs.groupBox3.$height.$assign(50) Returns #F
+
+Do $iwindows.win1.$objs.groupBox4.$left.$assign(70) Returns #F
+Do $iwindows.win1.$objs.groupBox4.$width.$assign(520) Returns #F
+Do $iwindows.win1.$objs.groupBox4.$height.$assign(50) Returns #F
+Do $iwindows.win1.$objs.groupBox4.$top.$assign(350) Returns #F
+
+;  wait 8
+Do $iwindows.win1.$objs.groupBox2.$left.$assign(70) Returns #F
+Do $iwindows.win1.$objs.groupBox2.$width.$assign(520) Returns #F
+Do $iwindows.win1.$objs.groupBox2.$height.$assign(330) Returns #F

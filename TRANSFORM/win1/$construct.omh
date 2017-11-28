@@ -1,0 +1,12 @@
+Calculate iSteps as $cwind.$objs.morph.$numsteps
+Calculate iDelay as $cwind.$objs.morph.$animdelay
+
+Do iConvType.$definefromsqlclass('scConvType')
+Do iConvType.$add('kConvergeLinear')
+Do iConvType.$add('kConvergeSine')
+Do iConvType.$add('kConvergeOvershoot')
+
+Do $cwind.$objs.morph.$convergence.$assign(kConvergeSine)
+Do iConvType.$line.$assign(2)
+
+;  Enter your initialization code here

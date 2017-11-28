@@ -1,0 +1,21 @@
+On evTransformComplete
+	Calculate $iwindows.win1.$objs.groupBox1.$bobjs.1043.$visible as p2='$state1'
+	Calculate $iwindows.win1.$objs.groupBox2.$bobjs.1044.$visible as p2='$state2'
+	Calculate $iwindows.win1.$objs.groupBox3.$bobjs.1045.$visible as p2='$state3'
+	Calculate $iwindows.win1.$objs.groupBox4.$bobjs.1046.$visible as p2='$state4'
+	Calculate lNum as asc(p2,7)-asc('0',1)
+	Calculate $iwindows.win1.$objs.groupBox[lNum].$text as 'ASL Garaiya (2002)'
+	
+	Calculate iEvState as p2
+	Do $cwind.$objs.eState.$redraw()
+	Quit method
+	
+On evTransformBegin
+	Do $iwindows.win1.$objs.groupBox1.$bobjs.$sendall($ref.$visible.$assign(kFalse))
+	Do $iwindows.win1.$objs.groupBox2.$bobjs.$sendall($ref.$visible.$assign(kFalse))
+	Do $iwindows.win1.$objs.groupBox3.$bobjs.$sendall($ref.$visible.$assign(kFalse))
+	Do $iwindows.win1.$objs.groupBox4.$bobjs.$sendall($ref.$visible.$assign(kFalse))
+	Do $iwindows.win1.$objs.groupBox1.$text.$assign('')
+	Do $iwindows.win1.$objs.groupBox2.$text.$assign('')
+	Do $iwindows.win1.$objs.groupBox3.$text.$assign('')
+	Do $iwindows.win1.$objs.groupBox4.$text.$assign('')

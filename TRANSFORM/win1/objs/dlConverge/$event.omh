@@ -1,0 +1,2 @@
+On evClick     ;; Event Parameters - pRow ( Itemreference )
+	Do $cwind.$objs.morph.$convergence.$assign(iConvType.convType)
