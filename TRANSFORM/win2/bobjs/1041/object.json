@@ -1,0 +1,30 @@
+{
+	"ident": 1041,
+	"order": 16388,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "CtrlLabel",
+		"font": 5,
+		"fontsize": 0,
+		"fontstyle": "kPlain",
+		"forecolor": "kColorForeFill",
+		"height": 37,
+		"left": 71,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "This example causes 10 button objects to move between two states. Wait commands between the assignment statements cause the 'wipe' effect."
+		},
+		"textcolor": "kColorWindowText",
+		"top": 107,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 544
+	}
+}

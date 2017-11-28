@@ -1,0 +1,6 @@
+On evEndSlider
+	Calculate iSlideVal as $cwind.$objs.slider.$val
+	
+	Do $cwind.$objs.trx1.$transform('newstate')
+	Do $cwind.$objs.trx2.$transform('newstate')
+	Do $cwind.$objs.trx3.$transform('newstate')

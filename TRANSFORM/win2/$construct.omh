@@ -1,0 +1,6 @@
+;  Enter your initialization code here
+Do $cwind.$objs.wipe1.$convergence.$assign(kConvergeSine)
+
+Do $cwind.$objs.trx1.$convergence.$assign(kConvergeOvershoot)
+Do $cwind.$objs.trx2.$convergence.$assign(kConvergeSine)
+Do $cwind.$objs.trx3.$convergence.$assign(kConvergeLinear)

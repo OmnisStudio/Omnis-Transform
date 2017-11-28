@@ -1,0 +1,19 @@
+Do $iwindows.win2.$objs.b10.$left.$assign(600)
+;  wait 5
+Do $iwindows.win2.$objs.b9.$left.$assign(580)
+;  wait 5
+Do $iwindows.win2.$objs.b8.$left.$assign(560)
+;  wait 5
+Do $iwindows.win2.$objs.b7.$left.$assign(540)
+;  wait 5
+Do $iwindows.win2.$objs.b6.$left.$assign(520)
+;  wait 5
+Do $iwindows.win2.$objs.b5.$left.$assign(500)
+;  wait 5
+Do $iwindows.win2.$objs.b4.$left.$assign(480)
+;  wait 5
+Do $iwindows.win2.$objs.b3.$left.$assign(460)
+;  wait 5
+Do $iwindows.win2.$objs.b2.$left.$assign(440)
+;  wait 5
+Do $iwindows.win2.$objs.b1.$left.$assign(420)
