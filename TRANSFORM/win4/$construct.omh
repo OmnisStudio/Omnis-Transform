@@ -1,0 +1,5 @@
+;  Enter your initialization code here
+Do $cwind.$objs.transform.$convergence.$assign(kConvergeOvershoot)
+
+Do $cwind.$bobjs.$sendall($ref.$fontsize.$assign(4))
+Do $cwind.$bobjs.1031.$fontsize.$assign(10)

@@ -1,0 +1,12 @@
+On evTransformComplete
+	;  Transformation is complete
+	If p2='down'
+		Do $cwind.$bobjs.$sendall($ref.$visible.$assign(kFalse))
+		Do $cwind.$bobjs.1031.$visible.$assign(kTrue)
+	End If
+	
+On evTransformBegin
+	;  Transformation has begun
+	If p2='bounce'
+		Do $cwind.$bobjs.$sendall($ref.$visible.$assign(kTrue))
+	End If

@@ -1,0 +1,27 @@
+{
+	"ident": 1020,
+	"order": 16388,
+	"objtype": "kLabel",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "",
+		"font": 1,
+		"fontsize": 72,
+		"fontstyle": "kBold",
+		"forecolor": "kColorForeFill",
+		"height": 90,
+		"left": 211,
+		"objlink": 0,
+		"text": "i",
+		"textcolor": "kColorHilight",
+		"top": 73,
+		"userinfo": "",
+		"vertcentertext": true,
+		"visible": true,
+		"width": 96
+	}
+}

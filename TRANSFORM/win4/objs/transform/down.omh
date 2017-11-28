@@ -1,0 +1,21 @@
+Do $iwindows.win4.$bobjs.1027.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1026.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1025.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1024.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1023.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1022.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1021.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1020.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1019.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1018.$fontsize.$assign(8)
+;  wait 4
+Do $iwindows.win4.$bobjs.1017.$fontsize.$assign(8)

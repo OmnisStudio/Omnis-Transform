@@ -1,0 +1,30 @@
+{
+	"ident": 1031,
+	"order": 16396,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "",
+		"font": 4,
+		"fontsize": 10,
+		"fontstyle": "kBold,kItalic",
+		"forecolor": "kColorForeFill",
+		"height": 91,
+		"left": 8,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "This example animates the $fontsize property of several label objects. Wait states between each command create the wave effect. Overshoot convergence creates the bounce effect. Because fonts have a minimum size, evTransformComplete is used to hide the minimized text."
+		},
+		"textcolor": "kColorBtnShadow",
+		"top": 238,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 534
+	}
+}
