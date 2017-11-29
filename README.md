@@ -1,6 +1,8 @@
 # Omnis-Transform
 Library demos the Transform component which can dynamically scale, translate and resize any number of object attributes. (Note the Transform component is for Window classes only, not JS forms.)
 
+For more information about using the Transform window class component, see the tech note: http://www.omnis.net/technotes/tnxm0004.jsp
+
 Requires Omnis Studio 8.1.2 or above.
 
 ## Contents
